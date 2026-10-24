@@ -8,9 +8,9 @@
     foundryup
     brew install libusb
 
-**If you're text editor says "foundry-std not found, run the following command:"
+`lib/forge-std` is a git submodule. If it is empty (or your text editor says "forge-std not found"), run this from the repo root:
 
-        forge install foundry-rs/forge-std
+        git submodule update --init --recursive
 
 # Running Test
 
@@ -43,7 +43,7 @@ Optimize the following functions by utilizing the gas optimization tactics that 
 
 **Due:** TBD
 
-Upload your `SRC` file to Gradescope under the assignment "Homework 4".
+Upload your `src` files to the [Homework 5 submission form](https://docs.google.com/forms/d/1LFpOjEEskxrguGSdc6SF7p5JrYx-WtphJzflrAgsS7k/viewform).
 
 # References
 

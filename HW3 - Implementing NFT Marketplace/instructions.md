@@ -17,22 +17,18 @@ You will be editing the src/NFTMarketplace.sol contract.
 
 ### Foundry setup
 
-From the previous HW, you should have Foundry set up. For this homework, we need to install external [OpenZeppelin contracts](https://www.openzeppelin.com/contracts) into Forge. 
+From the previous HW, you should have Foundry set up. For this homework, we use external [OpenZeppelin contracts](https://www.openzeppelin.com/contracts) with Forge. 
 
 OpenZeppelin is a repository of common ERC20 and ERC721 smart contracts that have been thoroughly tested and verified, and are used by most dApps. We will be inheriting from these contracts and building on top of them.
 
-In order to add these to forge:
+`forge-std` (v1.4.0) and `openzeppelin-contracts` (v4.8.1) are already included in `lib/` as git submodules, and `remappings.txt` already points at them. To set them up:
 
-1. <b> Open up the terminal in the src directory (important!) </b>
-2. Run the following command:
+1. From the <b>root of the fa26-dev-decal repo</b>, run:
 ```
- forge install OpenZeppelin/openzeppelin-contracts
+git submodule update --init --recursive
 ```
-3. Reset the forge remapping in the <b>root directory</b> (hw3):
-```
-forge remappings > remappings.txt
-```
-4. Run
+(Skip this if you cloned with `--recurse-submodules`.) If you downloaded only this folder instead of cloning the repo, run `forge install --no-git foundry-rs/forge-std@v1.4.0 OpenZeppelin/openzeppelin-contracts@v4.8.1` in the `HW3 - Implementing NFT Marketplace` directory instead (leave out `--no-git` if that folder is inside your own git repo). Use OpenZeppelin v4.8.1: newer versions removed `Counters.sol`, which this homework imports.
+2. In the `HW3 - Implementing NFT Marketplace` directory, run
 ```
 forge build
 ```
@@ -61,7 +57,7 @@ You can specify the verbosity of the output by changing the number of v's. ``` f
 
 Submit your NFTMarketplace.sol file and a screenshot of your 4/4 passed tests on this form:
 
-https://forms.gle/Bd2jy6jfNJfkYhDcA
+https://docs.google.com/forms/d/1NIWhh8DriL0cb3qgozOepOkfydOc8Lp8QlCOsG3rQHw/viewform
 
 Congratulations! You've now deployed an operational NFT marketplace! 
 

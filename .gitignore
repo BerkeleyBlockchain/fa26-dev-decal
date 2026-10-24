@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Foundry build output (HW2, HW3, HW5)
+out/
+cache/
+
+# Rust build output (HW6, HW7)
+target/
+
+# Node dependencies (HW4)
+node_modules/
+
+# Private keys / RPC URLs
+.env

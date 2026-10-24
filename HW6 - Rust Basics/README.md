@@ -102,6 +102,6 @@ cargo test
 ## Submission
 **Due:** TBD
 
-Submit your solution.rs file to the [Homework 6 google form submission link](https://forms.gle/UntnwpvW2ti8Cj4u8).
+Submit your solution.rs file to the [Homework 6 google form submission link](https://docs.google.com/forms/d/1a8WFbdVmpUqkYKfWYAQjVv0Xlx17GoNRvwevvHH-2ig/viewform).
 ## Tips
 Always refer to the Rust documentation when stuck.

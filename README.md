@@ -4,35 +4,38 @@ This decal is designed to provide students with a comprehensive overview of rele
 
 Blockchain is currently one of the fastest-growing industries in the technology sector. In response to this shortage of blockchain developers, this course aims to teach students the technical fundamentals of blockchains, the Solidity programming language, the Cosmos ecosystem, as well as industry-relevant tools such as Metamask, Wagmi, Foundry, Rust, and Cosmos SDK such that students will be equipped with industry-relevant experience in an accessible, collaborative environment. We hope that through this course, students will become more confident in their ability to develop and deploy blockchain-based solutions on important industry issues.
 
+## Getting the Homework
+
+Clone this repo with its submodules (HW3 and HW5 use Foundry libraries pulled in as git submodules):
+
+```
+git clone --recurse-submodules https://github.com/BerkeleyBlockchain/fa26-dev-decal.git
+```
+
+If you already cloned without `--recurse-submodules`, run `git submodule update --init --recursive` from the repo root.
+
 ## Homework
 
-Assignments are due at **11:59 PM PT** on the day of the next lesson. Submission forms below are the current links and will be replaced with Fall 2026 copies later.
+Lessons are on Mondays. Each homework is due at **11:59 PM PT** on the day of the next lesson.
 
-| Homework | Path | Due | Form |
+| Homework | Folder | Submission Form | Due (11:59 PM PT) |
 | --- | --- | --- | --- |
-| HW1 — Build a Blockchain in Python | [HW1 - Build a Blockchain in Python](HW1%20-%20Build%20a%20Blockchain%20in%20Python) | Mon Sep 28, 2026 | [submit](https://forms.gle/LNUEDvCWFdWMQq6o7) |
-| HW2 — Deploy Your ERC721 | [HW2 - Deploy Your ERC721](HW2%20-%20Deploy%20Your%20ERC721) | Mon Oct 12, 2026 | [submit](https://forms.gle/7ZahAVRRAFzy1SUSA) |
-| HW3 — NFT Marketplace | [HW3 - Implementing NFT Marketplace](HW3%20-%20Implementing%20NFT%20Marketplace) | Mon Oct 19, 2026 | [submit](https://forms.gle/pkdAWWhjLcRRWFYq8) |
-| HW4 — Ethers.js | [HW4 - Etherjs](HW4%20-%20Etherjs) | TBD | [submit](https://forms.gle/vDHvu3qsEH1tmkUe7) |
-| HW5 — Gas Optimization | [HW5 - Gas Optimization](HW5%20-%20Gas%20Optimization) | TBD | [submit](https://forms.gle/jth8BfTaAUaLVu1F6) |
-| HW6 — Rust Basics | [HW6 - Rust Basics](HW6%20-%20Rust%20Basics) | TBD | [submit](https://forms.gle/UntnwpvW2ti8Cj4u8) |
-| HW7 — CosmWasm | [HW7 - COSMWASM](HW7%20-%20COSMWASM) | TBD | [submit](https://forms.gle/H9KwWzZs7S1LDnnY7) |
+| HW1: Build a Blockchain in Python | [HW1 - Build a Blockchain in Python](HW1%20-%20Build%20a%20Blockchain%20in%20Python) | [HW1 form](https://docs.google.com/forms/d/1AtLCSsmPeCQVa5ig0tnJFjhOwRgP3s3561cc2YlNkY4/viewform) | Mon Sep 28, 2026 |
+| HW2: Deploy Your ERC721 | [HW2 - Deploy Your ERC721](HW2%20-%20Deploy%20Your%20ERC721) | [HW2 form](https://docs.google.com/forms/d/1lePpyJxGkmJsJhlT_uVZwop67u85_57GT7A9vwlzo48/viewform) | Mon Oct 12, 2026 |
+| HW3: Implementing NFT Marketplace | [HW3 - Implementing NFT Marketplace](HW3%20-%20Implementing%20NFT%20Marketplace) | [HW3 form](https://docs.google.com/forms/d/1NIWhh8DriL0cb3qgozOepOkfydOc8Lp8QlCOsG3rQHw/viewform) | Mon Oct 19, 2026 |
+| HW4: Ethers.js | [HW4 - Etherjs](HW4%20-%20Etherjs) | [HW4 form](https://docs.google.com/forms/d/11aZrIp4cOSUDAmmcTzDHMbdd2rvfGhnkye1pX21qI8c/viewform) | TBD (the next lesson after Oct 19) |
+| HW5: Gas Optimization | [HW5 - Gas Optimization](HW5%20-%20Gas%20Optimization) | [HW5 form](https://docs.google.com/forms/d/1LFpOjEEskxrguGSdc6SF7p5JrYx-WtphJzflrAgsS7k/viewform) | TBD |
+| HW6: Rust Basics | [HW6 - Rust Basics](HW6%20-%20Rust%20Basics) | [HW6 form](https://docs.google.com/forms/d/1a8WFbdVmpUqkYKfWYAQjVv0Xlx17GoNRvwevvHH-2ig/viewform) | TBD |
+| HW7: CosmWasm | [HW7 - COSMWASM](HW7%20-%20COSMWASM) | [HW7 form](https://docs.google.com/forms/d/1i_amTzIdpPNik3woKq7XUolO1mTPkDyvmFMaogwKmb0/viewform) | TBD |
 
 ## Contact Info
 
 For help/questions, email: dev-decal@blockchain.berkeley.edu
 
-## Anonymous Feedback Form
-
-[https://forms.gle/Ufhh5uJonLWxh8CS7](https://forms.gle/Ufhh5uJonLWxh8CS7)
-
-### Course Lecturers/Facilitators
-smagazi@berkeley.edu,
-oliviali2028@berkeley.edu,
-isaac_oh@berkeley.edu,
-amanshah@berkeley.edu,
-elsonliu28@berkeley.edu,
-fujiawang@berkeley.edu
+### Course Instructors
+- Yadukrishna Ragu
+- Anthony Kobzar
+- Nithya Appannagaari
 
 ## Weekly Lecture Topics/YouTube Videos
 ### Week 1
