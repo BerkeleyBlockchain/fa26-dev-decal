@@ -1,6 +1,6 @@
 # Cosm Wasm
 
-**Due:** TBD
+**Due:** Fri Dec 4, 2026, 11:59 PM PT
 
 Welcome to hw7, you will be using Rust with smart contracts, finally
 
