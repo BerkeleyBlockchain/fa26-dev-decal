@@ -16,7 +16,7 @@ Assignments are due at **11:59 PM PT** on the day of the next lesson. Submission
 | HW4 — Ethers.js | [HW4 - Etherjs](HW4%20-%20Etherjs) | TBD | [submit](https://forms.gle/vDHvu3qsEH1tmkUe7) |
 | HW5 — Gas Optimization | [HW5 - Gas Optimization](HW5%20-%20Gas%20Optimization) | TBD | [submit](https://forms.gle/jth8BfTaAUaLVu1F6) |
 | HW6 — Rust Basics | [HW6 - Rust Basics](HW6%20-%20Rust%20Basics) | TBD | [submit](https://forms.gle/UntnwpvW2ti8Cj4u8) |
-| HW7 — CosmWasm | [HW7 - COSMWASM](HW7%20-%20COSMWASM) | TBD | [submit](https://forms.gle/H9KwWzZs7S1LDnnY7) |
+| HW7 — CosmWasm | [HW7 - COSMWASM](HW7%20-%20COSMWASM) | Fri Dec 4, 2026 | [submit](https://forms.gle/H9KwWzZs7S1LDnnY7) |
 
 ## Contact Info
 
