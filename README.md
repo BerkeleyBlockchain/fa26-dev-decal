@@ -27,12 +27,10 @@ For help/questions, email: dev-decal@blockchain.berkeley.edu
 [https://forms.gle/Ufhh5uJonLWxh8CS7](https://forms.gle/Ufhh5uJonLWxh8CS7)
 
 ### Course Lecturers/Facilitators
-smagazi@berkeley.edu,
-oliviali2028@berkeley.edu,
-isaac_oh@berkeley.edu,
-amanshah@berkeley.edu,
-elsonliu28@berkeley.edu,
-fujiawang@berkeley.edu
+
+- Anthony Kobzar — [anthonykobzar@berkeley.edu](mailto:anthonykobzar@berkeley.edu)
+- Nithya Appannagaari — [nithya.app@berkeley.edu](mailto:nithya.app@berkeley.edu)
+- Yadukrishna Raghu — [yadukrishnaraghu@berkeley.edu](mailto:yadukrishnaraghu@berkeley.edu)
 
 ## Weekly Lecture Topics/YouTube Videos
 ### Week 1
